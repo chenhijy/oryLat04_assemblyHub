@@ -1,0 +1,5 @@
+hub bejeranoLabPercomorphs
+shortLabel percomorphs
+longLabel percomorphs
+genomesFile publicGenomes.txt
+email hchen17@stanford.edu, chenhijy@gmail.com
