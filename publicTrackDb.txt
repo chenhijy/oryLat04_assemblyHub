@@ -12,3 +12,458 @@ longLabel oryLat04 assembly gap (NNNs) track
 visibility pack
 priority 1
 
+track oryLat04_genePred
+type bigGenePred
+bigDataUrl https://zenodo.org/record/7909719/files/oryLat04.ensembl98.bb
+shortLabel oryLat04_genes
+longLabel Japanese Medaka (oryLat04|ASM223467v1) ensembl98 genes
+labelFields name,geneID,type,geneName,geneSymbol,geneDescription,cdsStartStat,cdsEndStat
+defaultLabelFields geneSymbol,geneID
+searchIndex name,geneID,geneSymbol,geneDescription
+searchTrix https://zenodo.org/record/7909719/files/oryLat04.ensembl98.ix
+visibility pack
+priority 2
+
+track results_CONDELs
+shortLabel CONDEL_RESULTS
+longLabel CONDEL_RESULTS
+bigDataUrl https://zenodo.org/record/7909719/files/20220918_1920_RESULTS_med0.1map_200kbTSSpad_syngnathTetraod_17of29ogNoPriCar_1viol.CONDELS.bb
+type bigBed
+visibility pack
+priority 3
+
+track results_DELs
+shortLabel DEL_RESULTS
+longLabel DEL_RESULTS
+bigDataUrl https://zenodo.org/record/7909719/files/20220918_1920_RESULTS_med0.1map_200kbTSSpad_syngnathTetraod_17of29ogNoPriCar_1viol.DELs.bb
+type bigBed
+visibility pack
+priority 3
+
+track pelA_blastHits
+shortLabel pelA_blastHits
+longLabel pelA_blastHits
+bigDataUrl https://zenodo.org/record/7909719/files/oryLat04_pelA_blastHits.bb
+type bigBed 4
+visibility pack
+priority 3
+
+track inputData2022
+compositeTrack on
+shortLabel inputData2022
+longLabel Input data for percomorph CONDEL screen from chains made with chainLinGap=medium
+type bigBed
+visibility hide
+
+			track targetDels22
+			parent inputData2022 on
+			type bigBed 4
+			bigDataUrl https://zenodo.org/record/7909719/files/TARGETs_chainRunMed_20220407_collatedDels.bb
+			shortLabel targetDels
+			longLabel target species dels
+			visiblity pack
+			
+			track outgroupDels22
+			parent inputData2022 on
+			type bigBed 4
+			bigDataUrl https://zenodo.org/record/7909719/files/OUTGROUPs_chainRunMed_20220407_collatedDels.bb
+			shortLabel outgroupDels
+			longLabel outgroup species dels
+			visiblity pack
+
+			track og_100bpWinCons22
+			bigDataUrl https://zenodo.org/record/7909719/files/outgroups_100bpSlidingWindowCons_20220409.bb
+			parent inputData2022 on
+			shortLabel og_100bpWinCons
+			longLabel Outgroups 100bp Sliding Window Cons
+			visibility pack
+			type bigBed 4			
+
+			track og_10bpWinCons22
+			bigDataUrl https://zenodo.org/record/7909719/files/outgroups_10bpSlidingWindowCons_20220409.bb
+			parent inputData2022 on
+			shortLabel og_10bpWinCons
+			longLabel Outgroups 10bp Sliding Window Cons
+			visibility pack
+			type bigBed 4
+
+			track og_50bpWinCons22
+			bigDataUrl https://zenodo.org/record/7909719/files/outgroups_50bpSlidingWindowCons_20220409.bb
+			parent inputData2022 on
+			shortLabel og_50bpWinCons
+			longLabel Outgroups 50bp Sliding Window Cons
+			visibility pack
+			type bigBed 4
+
+			track og_25bpWinCons22
+			bigDataUrl https://zenodo.org/record/7909719/files/outgroups_25bpSlidingWindowCons_20220409.bb
+			parent inputData2022 on
+			shortLabel og_25bpWinCons
+			longLabel Outgroups 25bp Sliding Window Cons
+			visibility pack
+			type bigBed 4
+
+			track target_100bpWinCons22
+			bigDataUrl https://zenodo.org/record/7909719/files/targets_100bpSlidingWindowCons_20220409.bb
+			parent inputData2022 on
+			shortLabel target_100bpWinCons
+			longLabel Targets 100bp Sliding Window Cons
+			visibility pack
+			type bigBed 4
+
+			track target_10bpWinCons22
+			bigDataUrl https://zenodo.org/record/7909719/files/targets_10bpSlidingWindowCons_20220409.bb
+			parent inputData2022 on
+			shortLabel target_10bpWinCons
+			longLabel Targets 10bp Sliding Window Cons
+			visibility pack
+			type bigBed 4
+
+			track target_50bpWinCons22
+			bigDataUrl https://zenodo.org/record/7909719/files/targets_50bpSlidingWindowCons_20220409.bb
+			parent inputData2022 on
+			shortLabel target_50bpWinCons
+			longLabel Targets 50bp Sliding Window Cons
+			visibility pack
+			type bigBed 4
+
+			track target_25bpWinCons22
+			bigDataUrl https://zenodo.org/record/7909719/files/targets_25bpSlidingWindowCons_20220409.bb
+			parent inputData2022 on
+			shortLabel target_25bpWinCons
+			longLabel Targets 25bp Sliding Window Cons
+			visibility pack
+			type bigBed 4
+
+track orthologousChains
+compositeTrack on
+shortLabel orthologousChains
+longLabel orthologous sequence alignments
+type bigChain
+visibility pack
+
+
+			track ampCit01_orthoChains
+			parent orthologousChains on
+			type bigChain
+			bigDataUrl https://zenodo.org/record/7909719/files/oryLat04.ampCit01.ortho.bigChain.bb
+			linkDataUrl https://zenodo.org/record/7909719/files/oryLat04.ampCit01.ortho.bigChain.link.bb
+			shortLabel ampCit01
+			longLabel Midas Cichlid (+)
+			priority 4
+
+			track oreNil02_orthoChains
+			parent orthologousChains on
+			type bigChain
+			bigDataUrl https://zenodo.org/record/7909719/files/oryLat04.oreNil02.ortho.bigChain.bb
+			linkDataUrl https://zenodo.org/record/7909719/files/oryLat04.oreNil02.ortho.bigChain.link.bb
+			shortLabel oreNil02
+			longLabel Nile Tilapia (+)
+			priority 5
+
+			track neoBri01_orthoChains
+			parent orthologousChains on
+			type bigChain
+			bigDataUrl https://zenodo.org/record/7909719/files/oryLat04.neoBri01.ortho.bigChain.bb
+			linkDataUrl https://zenodo.org/record/7909719/files/oryLat04.neoBri01.ortho.bigChain.link.bb
+			shortLabel neoBri01
+			longLabel Lyretail Cichlid (+)
+			priority 6
+
+			track hapBur01_orthoChains
+			parent orthologousChains on
+			type bigChain
+			bigDataUrl https://zenodo.org/record/7909719/files/oryLat04.hapBur01.ortho.bigChain.bb
+			linkDataUrl https://zenodo.org/record/7909719/files/oryLat04.hapBur01.ortho.bigChain.link.bb
+			shortLabel hapBur01
+			longLabel Burton's Mouthbrooder (+)
+			priority 7
+
+			track punNye01_orthoChains
+			parent orthologousChains on
+			type bigChain
+			bigDataUrl https://zenodo.org/record/7909719/files/oryLat04.punNye01.ortho.bigChain.bb
+			linkDataUrl https://zenodo.org/record/7909719/files/oryLat04.punNye01.ortho.bigChain.link.bb
+			shortLabel punNye01
+			longLabel Victorian Cichlid (+)
+			priority 8
+
+			track mayZeb03_orthoChains
+			parent orthologousChains on
+			type bigChain
+			bigDataUrl https://zenodo.org/record/7909719/files/oryLat04.mayZeb03.ortho.bigChain.bb
+			linkDataUrl https://zenodo.org/record/7909719/files/oryLat04.mayZeb03.ortho.bigChain.link.bb
+			shortLabel mayZeb03
+			longLabel Zebra Mbuna (+)
+			priority 9
+
+			track notFur02_orthoChains
+			parent orthologousChains on
+			type bigChain
+			bigDataUrl https://zenodo.org/record/7909719/files/oryLat04.notFur02.ortho.bigChain.bb
+			linkDataUrl https://zenodo.org/record/7909719/files/oryLat04.notFur02.ortho.bigChain.link.bb
+			shortLabel notFur02
+			longLabel Turquoise Killifish (+)
+			priority 10
+
+			track kryMar01_orthoChains
+			parent orthologousChains on
+			type bigChain
+			bigDataUrl https://zenodo.org/record/7909719/files/oryLat04.kryMar01.ortho.bigChain.bb
+			linkDataUrl https://zenodo.org/record/7909719/files/oryLat04.kryMar01.ortho.bigChain.link.bb
+			shortLabel kryMar01
+			longLabel Mangrove Rivulus (+)
+			priority 11
+
+			track ausLim01_orthoChains
+			parent orthologousChains on
+			type bigChain
+			bigDataUrl https://zenodo.org/record/7909719/files/oryLat04.ausLim01.ortho.bigChain.bb
+			linkDataUrl https://zenodo.org/record/7909719/files/oryLat04.ausLim01.ortho.bigChain.link.bb
+			shortLabel ausLim01
+			longLabel Annual Killifish (+)
+			priority 12
+
+			track xipCou01_orthoChains
+			parent orthologousChains on
+			type bigChain
+			bigDataUrl https://zenodo.org/record/7909719/files/oryLat04.xipCou01.ortho.bigChain.bb
+			linkDataUrl https://zenodo.org/record/7909719/files/oryLat04.xipCou01.ortho.bigChain.link.bb
+			shortLabel xipCou01
+			longLabel Monterrey Platyfish (+)
+			priority 14
+
+			track xipHel01_orthoChains
+			parent orthologousChains on
+			type bigChain
+			bigDataUrl https://zenodo.org/record/7909719/files/oryLat04.xipHel01.ortho.bigChain.bb
+			linkDataUrl https://zenodo.org/record/7909719/files/oryLat04.xipHel01.ortho.bigChain.link.bb
+			shortLabel xipHel01
+			longLabel Green Swordtail (+)
+			priority 15
+
+			track xipMac02_orthoChains
+			parent orthologousChains on
+			type bigChain
+			bigDataUrl https://zenodo.org/record/7909719/files/oryLat04.xipMac02.ortho.bigChain.bb
+			linkDataUrl https://zenodo.org/record/7909719/files/oryLat04.xipMac02.ortho.bigChain.link.bb
+			shortLabel xipMac02
+			longLabel Southern Platyfish (+)
+			priority 13
+
+			track poeFor01_orthoChains
+			parent orthologousChains on
+			type bigChain
+			bigDataUrl https://zenodo.org/record/7909719/files/oryLat04.poeFor01.ortho.bigChain.bb
+			linkDataUrl https://zenodo.org/record/7909719/files/oryLat04.poeFor01.ortho.bigChain.link.bb
+			shortLabel poeFor01
+			longLabel Amazon Molly (+)
+			priority 16
+
+			track poeRet02_orthoChains
+			parent orthologousChains on
+			type bigChain
+			bigDataUrl https://zenodo.org/record/7909719/files/oryLat04.poeRet02.ortho.bigChain.bb
+			linkDataUrl https://zenodo.org/record/7909719/files/oryLat04.poeRet02.ortho.bigChain.link.bb
+			shortLabel poeRet02
+			longLabel Guppy (+)	
+			priority 17	
+
+			track funHet01_orthoChains
+			parent orthologousChains on
+			type bigChain
+			bigDataUrl https://zenodo.org/record/7909719/files/oryLat04.funHet01.ortho.bigChain.bb
+			linkDataUrl https://zenodo.org/record/7909719/files/oryLat04.funHet01.ortho.bigChain.link.bb
+			shortLabel funHet01
+			longLabel Mummichog (+)
+			priority 18
+
+
+			track latCal01_orthoChains
+			parent orthologousChains on
+			type bigChain
+			bigDataUrl https://zenodo.org/record/7909719/files/oryLat04.latCal01.ortho.bigChain.bb
+			linkDataUrl https://zenodo.org/record/7909719/files/oryLat04.latCal01.ortho.bigChain.link.bb
+			shortLabel latCal01
+			longLabel Asian Seabass (+)		
+			priority 19
+
+			track parOli02_orthoChains
+			parent orthologousChains on
+			type bigChain
+			bigDataUrl https://zenodo.org/record/7909719/files/oryLat04.parOli02.ortho.bigChain.bb
+			linkDataUrl https://zenodo.org/record/7909719/files/oryLat04.parOli02.ortho.bigChain.link.bb
+			shortLabel parOli02
+			longLabel Japanese Flounder - 2 pelvic fins, 18-19 caudal rays (+)
+			priority 20		
+
+			track cynSem_orthoChains
+			parent orthologousChains on
+			type bigChain
+			bigDataUrl https://zenodo.org/record/7909719/files/oryLat04.cynSem.ortho.bigChain.bb
+			linkDataUrl https://zenodo.org/record/7909719/files/oryLat04.cynSem.ortho.bigChain.link.bb
+			shortLabel cynSem
+			longLabel Tongue Sole - 1 pelvic fin, 8-10 caudal rays (+/-)
+			priority 21
+
+			track serDum01_orthoChains
+			parent orthologousChains on
+			type bigChain
+			bigDataUrl https://zenodo.org/record/7909719/files/oryLat04.serDum01.ortho.bigChain.bb
+			linkDataUrl https://zenodo.org/record/7909719/files/oryLat04.serDum01.ortho.bigChain.link.bb
+			shortLabel serDum01
+			longLabel Greater Amberjack (+)
+			priority 22
+
+			track serQui01_orthoChains
+			parent orthologousChains on
+			type bigChain
+			bigDataUrl https://zenodo.org/record/7909719/files/oryLat04.serQui01.ortho.bigChain.bb
+			linkDataUrl https://zenodo.org/record/7909719/files/oryLat04.serQui01.ortho.bigChain.link.bb
+			shortLabel serQui01
+			longLabel Japanese Amberjack (+)
+			priority 23
+
+			track monAlb01_orthoChains
+			parent orthologousChains on
+			type bigChain
+			bigDataUrl https://zenodo.org/record/7909719/files/oryLat04.monAlb01.ortho.bigChain.bb
+			linkDataUrl https://zenodo.org/record/7909719/files/oryLat04.monAlb01.ortho.bigChain.link.bb
+			shortLabel monAlb01
+			longLabel Rice Eel [-]
+			priority 24
+
+			#track priCar1_orthoChains
+			parent orthologousChains on
+			type bigChain
+			bigDataUrl https://zenodo.org/record/7909719/files/oryLat04.priCar1.ortho.bigChain.bb
+			linkDataUrl https://zenodo.org/record/7909719/files/oryLat04.priCar1.ortho.bigChain.link.bb
+			shortLabel priCar1
+			longLabel Sea Robin (+)
+			priority 25
+
+			track gasAcu14_orthoChains
+			parent orthologousChains on
+			type bigChain
+			bigDataUrl https://zenodo.org/record/7909719/files/oryLat04.gasAcu14.ortho.bigChain.bb
+			linkDataUrl https://zenodo.org/record/7909719/files/oryLat04.gasAcu14.ortho.bigChain.link.bb
+			shortLabel gasAcu14
+			longLabel Threespine Stickleback (+)
+			priority 26	
+
+			track punPun02_orthoChains
+			parent orthologousChains on
+			type bigChain
+			bigDataUrl https://zenodo.org/record/7909719/files/oryLat04.punPun02.ortho.bigChain.bb
+			linkDataUrl https://zenodo.org/record/7909719/files/oryLat04.punPun02.ortho.bigChain.link.bb
+			shortLabel punPun02
+			longLabel Ninespine Stickleback (+)
+			priority 27
+
+			track takFla02_orthoChains
+			parent orthologousChains on
+			type bigChain
+			bigDataUrl https://zenodo.org/record/7909719/files/oryLat04.takFla02.ortho.bigChain.bb
+			linkDataUrl https://zenodo.org/record/7909719/files/oryLat04.takFla02.ortho.bigChain.link.bb
+			shortLabel takFla02
+			longLabel Yellowbelly Puffer [-]
+			priority 28
+
+			track takRub01_orthoChains
+			parent orthologousChains on
+			type bigChain
+			bigDataUrl https://zenodo.org/record/7909719/files/oryLat04.takRub01.ortho.bigChain.bb
+			linkDataUrl https://zenodo.org/record/7909719/files/oryLat04.takRub01.ortho.bigChain.link.bb
+			shortLabel takRub01
+			longLabel Japanese Puffer [-]
+			priority 29
+
+			track tetNig2_orthoChains
+			parent orthologousChains on
+			type bigChain
+			bigDataUrl https://zenodo.org/record/7909719/files/oryLat04.tetNig2.ortho.bigChain.bb
+			linkDataUrl https://zenodo.org/record/7909719/files/oryLat04.tetNig2.ortho.bigChain.link.bb
+			shortLabel tetNig2
+			longLabel Green Spotted Puffer [-]
+			priority 30
+
+			track molMol01_orthoChains
+			parent orthologousChains on
+			type bigChain
+			bigDataUrl https://zenodo.org/record/7909719/files/oryLat04.molMol01.ortho.bigChain.bb
+			linkDataUrl https://zenodo.org/record/7909719/files/oryLat04.molMol01.ortho.bigChain.link.bb
+			shortLabel molMol01
+			longLabel Ocean Sunfish [-]
+			priority 31
+
+			track larCro01_orthoChains
+			parent orthologousChains on
+			type bigChain
+			bigDataUrl https://zenodo.org/record/7909719/files/oryLat04.larCro01.ortho.bigChain.bb
+			linkDataUrl https://zenodo.org/record/7909719/files/oryLat04.larCro01.ortho.bigChain.link.bb
+			shortLabel larCro01
+			longLabel Yellow Croaker (+)
+			priority 32
+
+			track miiMii01_orthoChains
+			parent orthologousChains on
+			type bigChain
+			bigDataUrl https://zenodo.org/record/7909719/files/oryLat04.miiMii01.ortho.bigChain.bb
+			linkDataUrl https://zenodo.org/record/7909719/files/oryLat04.miiMii01.ortho.bigChain.link.bb
+			shortLabel miiMii01
+			longLabel Mi-iuy Croaker (+)
+			priority 33
+
+			track dicLab01_orthoChains
+			parent orthologousChains on
+			type bigChain
+			bigDataUrl https://zenodo.org/record/7909719/files/oryLat04.dicLab01.ortho.bigChain.bb
+			linkDataUrl https://zenodo.org/record/7909719/files/oryLat04.dicLab01.ortho.bigChain.link.bb
+			shortLabel dicLab01
+			longLabel European Seabass (+)
+			priority 34
+			
+			track labBer01_orthoChains
+			parent orthologousChains on
+			type bigChain
+			bigDataUrl https://zenodo.org/record/7909719/files/oryLat04.labBer01.ortho.bigChain.bb
+			linkDataUrl https://zenodo.org/record/7909719/files/oryLat04.labBer01.ortho.bigChain.link.bb
+			shortLabel labBer01
+			longLabel Ballan Wrasse (+)
+			priority 35
+
+			track bolPec01_orthoChains
+			parent orthologousChains on
+			type bigChain
+			bigDataUrl https://zenodo.org/record/7909719/files/oryLat04.bolPec01.ortho.bigChain.bb
+			linkDataUrl https://zenodo.org/record/7909719/files/oryLat04.bolPec01.ortho.bigChain.link.bb
+			shortLabel bolPec01
+			longLabel Great Blue-Spotted Mudskipper (+)
+			priority 39
+
+			track synSco01_orthoChains
+			parent orthologousChains on
+			type bigChain
+			bigDataUrl https://zenodo.org/record/7909719/files/oryLat04.synSco01.ortho.bigChain.bb
+			linkDataUrl https://zenodo.org/record/7909719/files/oryLat04.synSco01.ortho.bigChain.link.bb
+			shortLabel synSco01
+			longLabel Gulf Pipefish [-]
+			priority 36
+			
+			track hipCom01_orthoChains
+			parent orthologousChains on
+			type bigChain
+			bigDataUrl https://zenodo.org/record/7909719/files/oryLat04.hipCom01.ortho.bigChain.bb
+			linkDataUrl https://zenodo.org/record/7909719/files/oryLat04.hipCom01.ortho.bigChain.link.bb
+			shortLabel hipCom01
+			longLabel Tiger Tail Seahorse [-]
+			priority 38
+
+			track hipEre01_orthoChains
+			parent orthologousChains on
+			type bigChain
+			bigDataUrl https://zenodo.org/record/7909719/files/oryLat04.hipEre01.ortho.bigChain.bb
+			linkDataUrl https://zenodo.org/record/7909719/files/oryLat04.hipEre01.ortho.bigChain.link.bb
+			shortLabel hipEre01
+			longLabel Lined Seahorse [-]
+			priority 37
