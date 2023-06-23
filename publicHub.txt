@@ -1,5 +1,5 @@
-hub bejeranoLabPercomorphs
-shortLabel percomorphs
-longLabel percomorphs
-genomesFile publicGenomes.txt
-email hchen17@stanford.edu, chenhijy@gmail.com
+hub oryLat04hub
+shortLabel oryLat04
+longLabel Japanese Medaka oryLat04
+genomesFile https://raw.githubusercontent.com/chenhijy/oryLat04_assemblyHub/main/publicGenomes.txt
+email hchen17{at}stanford.edu, chenhijy{at}gmail.com
