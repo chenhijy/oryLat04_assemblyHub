@@ -1,5 +1,5 @@
 genome oryLat04
-trackDb oryLat04/publicTrackDb.txt
+trackDb https://raw.githubusercontent.com/chenhijy/oryLat04_assemblyHub/main/publicTrackDb.txt
 description oryLat04 | ASM223467v1
 twoBitPath oryLat04/oryLat04.2bit
 organism Japanese Medaka (Hd-rR strain)
