@@ -1,7 +1,7 @@
 genome oryLat04
 trackDb https://raw.githubusercontent.com/chenhijy/oryLat04_assemblyHub/main/publicTrackDb.txt
 description oryLat04 | ASM223467v1
-twoBitPath https://zenodo.org/record/7909719/files/oryLat04.2bit
+twoBitPath https://web.stanford.edu/~hchen17/oryLat04.2bit
 organism Japanese Medaka (Hd-rR strain)
 defaultPos chr14:3545727-3663816
 scientificName Oryzias latipes
