@@ -1,12 +1,12 @@
 track cytoBandIdeo
 longLabel Chromosome ideogram with cytogenetic bands
 shortLabel cytoBandIdeo
-bigDataUrl https://zenodo.org/record/7909719/files/oryLat04.cytoBandIdeo.bb 
+bigDataUrl https://raw.githubusercontent.com/chenhijy/oryLat04_assemblyHub/main/oryLat04.cytoBandIdeo.bb 
 type bigBed
 
 track oryLat04.gapTrack
 type bigBed 3
-bigDataUrl https://zenodo.org/record/7909719/files/oryLat04.gapTrack.bb
+bigDataUrl https://raw.githubusercontent.com/chenhijy/oryLat04_assemblyHub/main/oryLat04.gapTrack.bb
 shortLabel oryLat04 gapTrack
 longLabel oryLat04 assembly gap (NNNs) track
 visibility pack
@@ -14,20 +14,20 @@ priority 1
 
 track oryLat04_genePred
 type bigGenePred
-bigDataUrl https://zenodo.org/record/7909719/files/oryLat04.ensembl98.bb
+bigDataUrl https://raw.githubusercontent.com/chenhijy/oryLat04_assemblyHub/main/oryLat04.ensembl98.bb
 shortLabel oryLat04_genes
 longLabel Japanese Medaka (oryLat04|ASM223467v1) ensembl98 genes
 labelFields name,geneID,type,geneName,geneSymbol,geneDescription,cdsStartStat,cdsEndStat
 defaultLabelFields geneSymbol,geneID
 searchIndex name,geneID,geneSymbol,geneDescription
-searchTrix https://zenodo.org/record/7909719/files/oryLat04.ensembl98.ix
+searchTrix https://raw.githubusercontent.com/chenhijy/oryLat04_assemblyHub/main/oryLat04.ensembl98.ix
 visibility pack
 priority 2
 
 track results_CONDELs
 shortLabel CONDEL_RESULTS
 longLabel CONDEL_RESULTS
-bigDataUrl https://zenodo.org/record/7909719/files/20220918_1920_RESULTS_med0.1map_200kbTSSpad_syngnathTetraod_17of29ogNoPriCar_1viol.CONDELS.bb
+bigDataUrl https://raw.githubusercontent.com/chenhijy/oryLat04_assemblyHub/main/20220918_1920_RESULTS_med0.1map_200kbTSSpad_syngnathTetraod_17of29ogNoPriCar_1viol.CONDELS.bb
 type bigBed
 visibility pack
 priority 3
@@ -35,7 +35,7 @@ priority 3
 track results_DELs
 shortLabel DEL_RESULTS
 longLabel DEL_RESULTS
-bigDataUrl https://zenodo.org/record/7909719/files/20220918_1920_RESULTS_med0.1map_200kbTSSpad_syngnathTetraod_17of29ogNoPriCar_1viol.DELs.bb
+bigDataUrl https://raw.githubusercontent.com/chenhijy/oryLat04_assemblyHub/main/20220918_1920_RESULTS_med0.1map_200kbTSSpad_syngnathTetraod_17of29ogNoPriCar_1viol.DELs.bb
 type bigBed
 visibility pack
 priority 3
@@ -43,7 +43,7 @@ priority 3
 track pelA_blastHits
 shortLabel pelA_blastHits
 longLabel pelA_blastHits
-bigDataUrl https://zenodo.org/record/7909719/files/oryLat04_pelA_blastHits.bb
+bigDataUrl https://raw.githubusercontent.com/chenhijy/oryLat04_assemblyHub/main/oryLat04_pelA_blastHits.bb
 type bigBed 4
 visibility pack
 priority 3
