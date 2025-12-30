@@ -140,8 +140,8 @@ visibility pack
             track xipCou01_orthoChains
             parent orthologousChains on
             type bigChain
-            bigDataUrl https://figshare.com/ndownloader/files/41352555
-            linkDataUrl https://figshare.com/ndownloader/files/41352159
+            bigDataUrl https://www.dropbox.com/scl/fi/6bukxuk3245yjgk7avuh6/oryLat04.xipCou01.ortho.bigChain.bb?rlkey=7wivw1vrlxstf8vpiiy562pcf&st=dlnzudxw&dl=0
+            linkDataUrl https://www.dropbox.com/scl/fi/ejkgde14nobo6jvssch9z/oryLat04.xipCou01.ortho.bigChain.link.bb?rlkey=kp4s21h3uz0zj37mhddxgb1rv&st=0d3u9yf1&dl=0
             shortLabel xipCou01
             longLabel Monterrey Platyfish (+)
             priority 14
@@ -167,8 +167,8 @@ visibility pack
             track poeFor01_orthoChains
             parent orthologousChains on
             type bigChain
-            bigDataUrl https://figshare.com/ndownloader/files/41352441
-            linkDataUrl https://figshare.com/ndownloader/files/41352447
+            bigDataUrl https://www.dropbox.com/scl/fi/frqdm5wuu7h3i3tujymu9/oryLat04.poeFor01.ortho.bigChain.bb?rlkey=fritayqftlfha0yxp92of1dzo&st=yzfc178m&dl=0
+            linkDataUrl https://www.dropbox.com/scl/fi/be01ejarcwbkb68duw50m/oryLat04.poeFor01.ortho.bigChain.link.bb?rlkey=u3j049u2dn7y0qawvd2s1ni3l&st=y778caao&dl=0
             shortLabel poeFor01
             longLabel Amazon Molly (+)
             priority 16
@@ -176,8 +176,8 @@ visibility pack
             track poeRet02_orthoChains
             parent orthologousChains on
             type bigChain
-            bigDataUrl https://figshare.com/ndownloader/files/41352450
-            linkDataUrl https://figshare.com/ndownloader/files/41352453
+            bigDataUrl https://www.dropbox.com/scl/fi/tp5t2vvmnw5fvm9znmdqe/oryLat04.poeRet02.ortho.bigChain.bb?rlkey=j5hb4pecjdfpc9mop8de4czhr&st=qmp5cyx1&dl=0
+            linkDataUrl https://www.dropbox.com/scl/fi/aqm18tjqo2ms9x17gab05/oryLat04.poeRet02.ortho.bigChain.link.bb?rlkey=pc38q51ldwnqraafcg49eqs9a&st=lhqqqp17&dl=0
             shortLabel poeRet02
             longLabel Guppy (+) 
             priority 17 
@@ -204,8 +204,8 @@ visibility pack
             track parOli02_orthoChains
             parent orthologousChains on
             type bigChain
-            bigDataUrl https://figshare.com/ndownloader/files/41352432
-            linkDataUrl https://figshare.com/ndownloader/files/41352438
+            bigDataUrl https://www.dropbox.com/scl/fi/kn0buasl0y114mzexybbl/oryLat04.parOli02.ortho.bigChain.bb?rlkey=y0jkj8ndkx51btak0x2fghfq5&st=sfeft68h&dl=0
+            linkDataUrl https://www.dropbox.com/scl/fi/cvy75t2aoajdkwtxa3zvh/oryLat04.parOli02.ortho.bigChain.link.bb?rlkey=wvmvgjphkz4k7i7usgyneyky3&st=th2gmxsa&dl=0
             shortLabel parOli02
             longLabel Japanese Flounder - 2 pelvic fins, 18-19 caudal rays (+)
             priority 20     
@@ -222,8 +222,8 @@ visibility pack
             track serDum01_orthoChains
             parent orthologousChains on
             type bigChain
-            bigDataUrl https://figshare.com/ndownloader/files/41352570
-            linkDataUrl https://figshare.com/ndownloader/files/41352558
+            bigDataUrl https://www.dropbox.com/scl/fi/r9e1qd0ripj0vwv9zrtu9/oryLat04.serDum01.ortho.bigChain.bb?rlkey=m3knd8ymav0fl9n2ullc69w60&st=3i25xcgz&dl=0
+            linkDataUrl https://www.dropbox.com/scl/fi/753q7l32lo3thkn9x6rbs/oryLat04.serDum01.ortho.bigChain.link.bb?rlkey=5kfy33pl2tpp2gm7wqah5x83e&st=rw1hp84a&dl=0
             shortLabel serDum01
             longLabel Greater Amberjack (+)
             priority 22
@@ -231,8 +231,8 @@ visibility pack
             track serQui01_orthoChains
             parent orthologousChains on
             type bigChain
-            bigDataUrl https://figshare.com/ndownloader/files/41352165
-            linkDataUrl https://figshare.com/ndownloader/files/41352183
+            bigDataUrl https://www.dropbox.com/scl/fi/rhp3vg852m4fi9keygkq9/oryLat04.serQui01.ortho.bigChain.bb?rlkey=jk6lwv8zcknknsddxo3d36d7r&st=a1ot48vs&dl=0
+            linkDataUrl https://www.dropbox.com/scl/fi/s2u8lqr1djaxdyul2c6et/oryLat04.serQui01.ortho.bigChain.link.bb?rlkey=md0wu9dxtzch52wg97cxk769z&st=kioam0hf&dl=0
             shortLabel serQui01
             longLabel Japanese Amberjack (+)
             priority 23
@@ -258,8 +258,8 @@ visibility pack
             track punPun02_orthoChains
             parent orthologousChains on
             type bigChain
-            bigDataUrl https://figshare.com/ndownloader/files/41352096
-            linkDataUrl https://figshare.com/ndownloader/files/41352651
+            bigDataUrl https://www.dropbox.com/scl/fi/1kwsglzq55iz5qb76z2tg/oryLat04.punPun02.ortho.bigChain.bb?rlkey=n42vixjtu8q9g5061xdnpeqpu&st=n8xoh54x&dl=0
+            linkDataUrl https://www.dropbox.com/scl/fi/e0619n494526ljgmuirz5/oryLat04.punPun02.ortho.bigChain.link.bb?rlkey=rrm8vqbo4xj9oz1x4bshljecf&st=7jrn4zzd&dl=0
             shortLabel punPun02
             longLabel Ninespine Stickleback (+)
             priority 27
@@ -267,8 +267,8 @@ visibility pack
             track takFla02_orthoChains
             parent orthologousChains on
             type bigChain
-            bigDataUrl https://figshare.com/ndownloader/files/41352564
-            linkDataUrl https://figshare.com/ndownloader/files/41352180
+            bigDataUrl https://www.dropbox.com/scl/fi/q4lveh603ao35pdmcikst/oryLat04.takFla02.ortho.bigChain.bb?rlkey=hqrij5mmdxhevu3t8bjoj0g6l&st=7bfnb8r9&dl=0
+            linkDataUrl https://www.dropbox.com/scl/fi/y1ttf66evgsybv8cruyqe/oryLat04.takFla02.ortho.bigChain.link.bb?rlkey=9veayhr1sedm8gqt2lwumvqir&st=2dba1avc&dl=0
             shortLabel takFla02
             longLabel Yellowbelly Puffer [-]
             priority 28
@@ -276,8 +276,8 @@ visibility pack
             track takRub01_orthoChains
             parent orthologousChains on
             type bigChain
-            bigDataUrl https://figshare.com/ndownloader/files/41352174
-            linkDataUrl https://figshare.com/ndownloader/files/41352162
+            bigDataUrl https://www.dropbox.com/scl/fi/hfy64x93481cx1jbcbz8f/oryLat04.takRub01.ortho.bigChain.bb?rlkey=ki3smvr9l4hmeyn9i3eb8slna&st=yq8lmnnp&dl=0
+            linkDataUrl https://www.dropbox.com/scl/fi/3h2p80aeoo56f9tus741v/oryLat04.takRub01.ortho.bigChain.link.bb?rlkey=gas9goc00gx8l64xc2ocg973n&st=9cu03391&dl=0
             shortLabel takRub01
             longLabel Japanese Puffer [-]
             priority 29
@@ -285,8 +285,8 @@ visibility pack
             track tetNig2_orthoChains
             parent orthologousChains on
             type bigChain
-            bigDataUrl https://figshare.com/ndownloader/files/41352186
-            linkDataUrl https://figshare.com/ndownloader/files/41352192
+            bigDataUrl https://www.dropbox.com/scl/fi/d1s50rhnlgach5rgfdhdg/oryLat04.tetNig2.ortho.bigChain.bb?rlkey=dq7n8p8jt8ikk44tjfnk3y4qq&st=h9j5eifm&dl=0
+            linkDataUrl https://www.dropbox.com/scl/fi/jfehwgkln2rwf3xldcff6/oryLat04.tetNig2.ortho.bigChain.link.bb?rlkey=qk7o47to05wco60bku7pghx9f&st=hj1m2rta&dl=0
             shortLabel tetNig2
             longLabel Green Spotted Puffer [-]
             priority 30
@@ -348,8 +348,8 @@ visibility pack
             track synSco01_orthoChains
             parent orthologousChains on
             type bigChain
-            bigDataUrl https://figshare.com/ndownloader/files/41352573
-            linkDataUrl https://figshare.com/ndownloader/files/41352177
+            bigDataUrl https://www.dropbox.com/scl/fi/d30l5xffhkbj3fglxbmse/oryLat04.synSco01.ortho.bigChain.bb?rlkey=99ga6mdpkmn3ti9z2s3a6plw3&st=0r3oactg&dl=0
+            linkDataUrl https://www.dropbox.com/scl/fi/2kfo9fmtzz9qw2du44hmd/oryLat04.synSco01.ortho.bigChain.link.bb?rlkey=mzsepye9z13fww84y1qs5n948&st=v1gqficm&dl=0
             shortLabel synSco01
             longLabel Gulf Pipefish [-]
             priority 36
