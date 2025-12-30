@@ -131,8 +131,8 @@ visibility pack
             track ausLim01_orthoChains
             parent orthologousChains on
             type bigChain
-            bigDataUrl https://figshare.com/ndownloader/files/41352087
-            linkDataUrl https://figshare.com/ndownloader/files/41352114
+            bigDataUrl https://www.dropbox.com/scl/fi/pfac0trv55q11pecimm06/oryLat04.ausLim01.ortho.bigChain.bb?rlkey=5y55pqspwzuails1mg0i4tunv&st=vkhrt3gd&dl=0
+            linkDataUrl https://www.dropbox.com/scl/fi/hixp5poqe4um5pqhfqv3p/oryLat04.ausLim01.ortho.bigChain.link.bb?rlkey=6gksrsvuqk9qke9zx31gb2em0&st=3y5pdbk1&dl=0
             shortLabel ausLim01
             longLabel Annual Killifish (+)
             priority 12
@@ -213,8 +213,8 @@ visibility pack
             track cynSem_orthoChains
             parent orthologousChains on
             type bigChain
-            bigDataUrl https://figshare.com/ndownloader/files/41352264
-            linkDataUrl https://figshare.com/ndownloader/files/41352075
+            bigDataUrl https://www.dropbox.com/scl/fi/0oxenah4kssd3okr690zo/oryLat04.cynSem.ortho.bigChain.bb?rlkey=g96qtyvqyss5b2jgtflhepfke&st=niwhkg5z&dl=0
+            linkDataUrl https://www.dropbox.com/scl/fi/jkh77tz2q4rrp654caglz/oryLat04.cynSem.ortho.bigChain.link.bb?rlkey=2jbttqbmwwqg0uwxhzekdb69t&st=5o3ng9t2&dl=0
             shortLabel cynSem
             longLabel Tongue Sole - 1 pelvic fin, 8-10 caudal rays (+/-)
             priority 21
@@ -339,8 +339,8 @@ visibility pack
             track bolPec01_orthoChains
             parent orthologousChains on
             type bigChain
-            bigDataUrl https://figshare.com/ndownloader/files/41352111
-            linkDataUrl https://figshare.com/ndownloader/files/41352066
+            bigDataUrl https://www.dropbox.com/scl/fi/cgd0vk9jfvfmaaeyujuxs/oryLat04.bolPec01.ortho.bigChain.bb?rlkey=mu8d3kn39nltuw1lw1se7e3zh&st=b0ev47dx&dl=0
+            linkDataUrl https://www.dropbox.com/scl/fi/abqqcp4cn4rwnrfe5mtbq/oryLat04.bolPec01.ortho.bigChain.link.bb?rlkey=wxupauvqvik255p02wjd7drvq&st=r2ca05ka&dl=0
             shortLabel bolPec01
             longLabel Great Blue-Spotted Mudskipper (+)
             priority 39
