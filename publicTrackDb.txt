@@ -95,8 +95,8 @@ visibility pack
             track punNye01_orthoChains
             parent orthologousChains on
             type bigChain
-            bigDataUrl https://figshare.com/ndownloader/files/41352171
-            linkDataUrl https://figshare.com/ndownloader/files/41352168
+            bigDataUrl https://www.dropbox.com/scl/fi/9bhlbn6b7xaz25tsrvx9e/oryLat04.punNye01.ortho.bigChain.bb?rlkey=d56j0f1bljk7igxh1bxi0bdek&st=esiyuvpx&dl=0
+            linkDataUrl https://www.dropbox.com/scl/fi/1xkbsdnr1zc7ixh2d1fdc/oryLat04.punNye01.ortho.bigChain.link.bb?rlkey=p8ciy2nv4bz8w7apflfm3p258&st=vnnotm08&dl=0
             shortLabel punNye01
             longLabel Victorian Cichlid (+)
             priority 8
@@ -149,8 +149,8 @@ visibility pack
             track xipHel01_orthoChains
             parent orthologousChains on
             type bigChain
-            bigDataUrl https://figshare.com/ndownloader/files/41352189
-            linkDataUrl https://figshare.com/ndownloader/files/41352561
+            bigDataUrl https://www.dropbox.com/scl/fi/9xlqqe59gpm9h6hux6fxt/oryLat04.xipHel01.ortho.bigChain.bb?rlkey=1k770u9cydw8kpc3cqw4ckpjk&st=df79p8bi&dl=0
+            linkDataUrl https://www.dropbox.com/scl/fi/ewrrrfu0bt0skfcxg0nin/oryLat04.xipHel01.ortho.bigChain.link.bb?rlkey=r02dtvsn5a0ug4gbs3mvgfh6q&st=92m3apvq&dl=0
             shortLabel xipHel01
             longLabel Green Swordtail (+)
             priority 15
@@ -158,8 +158,8 @@ visibility pack
             track xipMac02_orthoChains
             parent orthologousChains on
             type bigChain
-            bigDataUrl https://figshare.com/ndownloader/files/41352135
-            linkDataUrl https://figshare.com/ndownloader/files/41352153
+            bigDataUrl https://www.dropbox.com/scl/fi/wxn02ilsdajxwmqb4dh1h/oryLat04.xipMac02.ortho.bigChain.bb?rlkey=xzhir5t23ix1ebrxq8sm17ncv&st=nqtbyf6c&dl=0
+            linkDataUrl https://www.dropbox.com/scl/fi/i54n9oj1phinmxyqp5ztp/oryLat04.xipMac02.ortho.bigChain.link.bb?rlkey=s24z91tt3u9wmogiuo0krtkp5&st=zlof694f&dl=0
             shortLabel xipMac02
             longLabel Southern Platyfish (+)
             priority 13
