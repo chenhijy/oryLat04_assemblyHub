@@ -59,8 +59,8 @@ visibility pack
             track ampCit01_orthoChains
             parent orthologousChains on
             type bigChain
-            bigDataUrl https://figshare.com/ndownloader/files/41352072
-            linkDataUrl https://figshare.com/ndownloader/files/41352105
+            bigDataUrl https://www.dropbox.com/scl/fi/7vm5e9yycbcme8nbtinml/oryLat04.ampCit01.ortho.bigChain.bb?rlkey=qvw7j4bahe0obc7r8pnrldk8m&st=mb5nbjjh&dl=0
+            linkDataUrl https://www.dropbox.com/scl/fi/tn21m3bcmxlq6s7cuhoni/oryLat04.ampCit01.ortho.bigChain.link.bb?rlkey=ui7ycmgrtpiwik36lgysr3jn1&st=zx812q8a&dl=0
             shortLabel ampCit01
             longLabel Midas Cichlid (+)
             priority 4
