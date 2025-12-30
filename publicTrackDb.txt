@@ -68,8 +68,8 @@ visibility pack
             track oreNil02_orthoChains
             parent orthologousChains on
             type bigChain
-            bigDataUrl https://figshare.com/ndownloader/files/41352426
-            linkDataUrl https://figshare.com/ndownloader/files/41352567
+            bigDataUrl https://www.dropbox.com/scl/fi/nn45tgqec4h7qw7huwc9x/oryLat04.oreNil02.ortho.bigChain.bb?rlkey=6xzamfe3jku3qlfn6ougjweox&st=dd2sqqwr&dl=0
+            linkDataUrl https://www.dropbox.com/scl/fi/3j53kwscg7cps9jmssl42/oryLat04.oreNil02.ortho.bigChain.link.bb?rlkey=lyklcyzggc30pdbtld6pvmw2a&st=rboj5jjj&dl=0
             shortLabel oreNil02
             longLabel Nile Tilapia (+)
             priority 5
@@ -77,8 +77,8 @@ visibility pack
             track neoBri01_orthoChains
             parent orthologousChains on
             type bigChain
-            bigDataUrl https://figshare.com/ndownloader/files/41352411
-            linkDataUrl https://figshare.com/ndownloader/files/41352102
+            bigDataUrl https://www.dropbox.com/scl/fi/r472xdslfwb0pw23midls/oryLat04.neoBri01.ortho.bigChain.bb?rlkey=fm6z7x38r4ja2qgpih76npecp&st=a9jcrgdp&dl=0
+            linkDataUrl https://www.dropbox.com/scl/fi/ajixgicr2475c0btmlgxz/oryLat04.neoBri01.ortho.bigChain.link.bb?rlkey=0no922b571kzu549jku39half&st=dpia9tk2&dl=0
             shortLabel neoBri01
             longLabel Lyretail Cichlid (+)
             priority 6
@@ -104,8 +104,8 @@ visibility pack
             track mayZeb03_orthoChains
             parent orthologousChains on
             type bigChain
-            bigDataUrl https://figshare.com/ndownloader/files/41352354
-            linkDataUrl https://figshare.com/ndownloader/files/41352357
+            bigDataUrl https://www.dropbox.com/scl/fi/c28wvqkzgz8cfaz9bgtsj/oryLat04.mayZeb03.ortho.bigChain.bb?rlkey=hoo3o6fzzuq2dhgw2yi9orvxz&st=woymx3nk&dl=0
+            linkDataUrl https://www.dropbox.com/scl/fi/gjfbgvzhq431c8kwoww2u/oryLat04.mayZeb03.ortho.bigChain.link.bb?rlkey=fwyuacnp0mm9teum0i2saw3ai&st=9313kztj&dl=0
             shortLabel mayZeb03
             longLabel Zebra Mbuna (+)
             priority 9
@@ -113,8 +113,8 @@ visibility pack
             track notFur02_orthoChains
             parent orthologousChains on
             type bigChain
-            bigDataUrl https://figshare.com/ndownloader/files/41352456
-            linkDataUrl https://figshare.com/ndownloader/files/41352420
+            bigDataUrl https://www.dropbox.com/scl/fi/jw9bmlgz9jm40khxwhpwb/oryLat04.notFur02.ortho.bigChain.bb?rlkey=5n6n7y1k3uejtiom21zshpzi9&st=7hzpcurz&dl=0
+            linkDataUrl https://www.dropbox.com/scl/fi/6zjdbq5gd6npef2hol7oa/oryLat04.notFur02.ortho.bigChain.link.bb?rlkey=eksyfsx2swcp66gwr5bbkxggp&st=f1z43bhs&dl=0
             shortLabel notFur02
             longLabel Turquoise Killifish (+)
             priority 10
@@ -123,7 +123,7 @@ visibility pack
             parent orthologousChains on
             type bigChain
             bigDataUrl https://www.dropbox.com/scl/fi/5r7j1uhlxzbe5h4yubnol/oryLat04.kryMar01.ortho.bigChain.bb?rlkey=8soomhmscksq4o2zk1f283629&st=a5sh37zg&dl=0
-            linkDataUrlhttps://www.dropbox.com/scl/fi/vhff5esjo3rqvjsjzlmuf/oryLat04.kryMar01.ortho.bigChain.link.bb?rlkey=j168le12uamagfktdu3fbeevi&st=e1iqohy7&dl=0
+            linkDataUrl https://www.dropbox.com/scl/fi/vhff5esjo3rqvjsjzlmuf/oryLat04.kryMar01.ortho.bigChain.link.bb?rlkey=j168le12uamagfktdu3fbeevi&st=e1iqohy7&dl=0
             shortLabel kryMar01
             longLabel Mangrove Rivulus (+)
             priority 11
@@ -195,8 +195,8 @@ visibility pack
             track latCal01_orthoChains
             parent orthologousChains on
             type bigChain
-            bigDataUrl https://figshare.com/ndownloader/files/41352312
-            linkDataUrl https://figshare.com/ndownloader/files/41352126
+            bigDataUrl https://www.dropbox.com/scl/fi/xplo2ezawshwgjfh6be7p/oryLat04.latCal01.ortho.bigChain.bb?rlkey=xkk0my1wzso3sfmc5676pskv3&st=ukajvgwa&dl=0
+            linkDataUrl https://www.dropbox.com/scl/fi/rpzocueoz733hyje6k7x7/oryLat04.latCal01.ortho.bigChain.link.bb?rlkey=9zuo6exmwvue1f35vc8twfop7&st=lkdhn0sp&dl=0
             shortLabel latCal01
             longLabel Asian Seabass (+)     
             priority 19
@@ -240,8 +240,8 @@ visibility pack
             track monAlb01_orthoChains
             parent orthologousChains on
             type bigChain
-            bigDataUrl https://figshare.com/ndownloader/files/41352402
-            linkDataUrl https://figshare.com/ndownloader/files/41352129
+            bigDataUrl https://www.dropbox.com/scl/fi/5nw5k7uch2kitoh01jlk1/oryLat04.monAlb01.ortho.bigChain.bb?rlkey=ulxk4182h6eac6rouujxknq8f&st=goy3ueco&dl=0
+            linkDataUrl https://www.dropbox.com/scl/fi/mg12fqoblj5jnwxfn7di2/oryLat04.monAlb01.ortho.bigChain.link.bb?rlkey=2dtch7n6snihvfcvtrmcch0bk&st=zxl1us2w&dl=0
             shortLabel monAlb01
             longLabel Rice Eel [-]
             priority 24
@@ -294,8 +294,8 @@ visibility pack
             track molMol01_orthoChains
             parent orthologousChains on
             type bigChain
-            bigDataUrl https://figshare.com/ndownloader/files/41352549
-            linkDataUrl https://figshare.com/ndownloader/files/41352399
+            bigDataUrl https://www.dropbox.com/scl/fi/x0n5l8eqiozprg2d3ki7b/oryLat04.molMol01.ortho.bigChain.bb?rlkey=l8y5lx6ah454qmvbodu2nypek&st=teoa9quu&dl=0
+            linkDataUrl https://www.dropbox.com/scl/fi/w2nacgg26qbaod86qyu87/oryLat04.molMol01.ortho.bigChain.link.bb?rlkey=i3kjdf212rby4rupzokhn6ut0&st=lqoinh9a&dl=0
             shortLabel molMol01
             longLabel Ocean Sunfish [-]
             priority 31
@@ -312,8 +312,8 @@ visibility pack
             track miiMii01_orthoChains
             parent orthologousChains on
             type bigChain
-            bigDataUrl https://figshare.com/ndownloader/files/41352360
-            linkDataUrl https://figshare.com/ndownloader/files/41352150
+            bigDataUrl https://www.dropbox.com/scl/fi/gynzk14so7ve2aj1ubhsw/oryLat04.miiMii01.ortho.bigChain.bb?rlkey=e7arn37o8im1ppsasps0h06rq&st=fcdtmkaf&dl=0
+            linkDataUrl https://www.dropbox.com/scl/fi/di6ohk2tgphch3bs25g20/oryLat04.miiMii01.ortho.bigChain.link.bb?rlkey=78ex0z23fj5r7f5vbcftf1jvo&st=6g8uwkmi&dl=0
             shortLabel miiMii01
             longLabel Mi-iuy Croaker (+)
             priority 33
