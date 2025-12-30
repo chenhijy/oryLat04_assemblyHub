@@ -86,8 +86,8 @@ visibility pack
             track hapBur01_orthoChains
             parent orthologousChains on
             type bigChain
-            bigDataUrl https://figshare.com/ndownloader/files/41352303
-            linkDataUrl https://figshare.com/ndownloader/files/41352132
+            bigDataUrl https://www.dropbox.com/scl/fi/lez2stvtioty2adi0nuas/oryLat04.hapBur01.ortho.bigChain.bb?rlkey=he8s5z612frrutgg15cx828r7&st=acd12m9u&dl=0
+            linkDataUrl https://www.dropbox.com/scl/fi/07vmwg7vmz823wjf5g3jw/oryLat04.hapBur01.ortho.bigChain.link.bb?rlkey=x7u0f1q2d9cu2li3gi9462cxj&st=unppzbre&dl=0
             shortLabel hapBur01
             longLabel Burton's Mouthbrooder (+)
             priority 7
@@ -122,8 +122,8 @@ visibility pack
             track kryMar01_orthoChains
             parent orthologousChains on
             type bigChain
-            bigDataUrl https://figshare.com/ndownloader/files/41352321
-            linkDataUrl https://figshare.com/ndownloader/files/41352084
+            bigDataUrl https://www.dropbox.com/scl/fi/5r7j1uhlxzbe5h4yubnol/oryLat04.kryMar01.ortho.bigChain.bb?rlkey=8soomhmscksq4o2zk1f283629&st=a5sh37zg&dl=0
+            linkDataUrlhttps://www.dropbox.com/scl/fi/vhff5esjo3rqvjsjzlmuf/oryLat04.kryMar01.ortho.bigChain.link.bb?rlkey=j168le12uamagfktdu3fbeevi&st=e1iqohy7&dl=0
             shortLabel kryMar01
             longLabel Mangrove Rivulus (+)
             priority 11
@@ -185,8 +185,8 @@ visibility pack
             track funHet01_orthoChains
             parent orthologousChains on
             type bigChain
-            bigDataUrl https://figshare.com/ndownloader/files/41352279
-            linkDataUrl https://figshare.com/ndownloader/files/41352288
+            bigDataUrl https://www.dropbox.com/scl/fi/sni3ql6ne935hpa5gj10u/oryLat04.funHet01.ortho.bigChain.bb?rlkey=hv5dqap4f17yexbjfipx3an1f&st=bbkkd3fy&dl=0
+            linkDataUrl https://www.dropbox.com/scl/fi/b4dvsvjz2xon62ow5tu9k/oryLat04.funHet01.ortho.bigChain.link.bb?rlkey=jguz5ur5e6pz9ip1d7522i5sj&st=y9dcfppi&dl=0
             shortLabel funHet01
             longLabel Mummichog (+)
             priority 18
@@ -249,8 +249,8 @@ visibility pack
             track gasAcu14_orthoChains
             parent orthologousChains on
             type bigChain
-            bigDataUrl https://figshare.com/ndownloader/files/41352282
-            linkDataUrl https://figshare.com/ndownloader/files/41352108
+            bigDataUrl https://www.dropbox.com/scl/fi/wlj8onzo5d7dclj3py1u2/oryLat04.gasAcu14.ortho.bigChain.bb?rlkey=6e51tc5sr4u0hw9bepf3shejt&st=xge2x1t8&dl=0
+            linkDataUrl https://www.dropbox.com/scl/fi/kg6jhou381dqb5152e295/oryLat04.gasAcu14.ortho.bigChain.link.bb?rlkey=guln3mullik1lf2xrk32pkchr&st=5l6iirwe&dl=0
             shortLabel gasAcu14
             longLabel Threespine Stickleback (+)
             priority 26 
@@ -303,8 +303,8 @@ visibility pack
             track larCro01_orthoChains
             parent orthologousChains on
             type bigChain
-            bigDataUrl https://figshare.com/ndownloader/files/41352459
-            linkDataUrl https://figshare.com/ndownloader/files/41352351
+            bigDataUrl https://www.dropbox.com/scl/fi/l3xkmoucpqetk3hh2bezp/oryLat04.larCro01.ortho.bigChain.bb?rlkey=81g3kqnaogyc7iywls42gln1v&st=0sfjboek&dl=0
+            linkDataUrl https://www.dropbox.com/scl/fi/h2sosf4p1tpfox77jt98i/oryLat04.larCro01.ortho.bigChain.link.bb?rlkey=zvts7h2bk97u6v0zemoztbhqc&st=1xy2l18h&dl=0
             shortLabel larCro01
             longLabel Yellow Croaker (+)
             priority 32
@@ -321,8 +321,8 @@ visibility pack
             track dicLab01_orthoChains
             parent orthologousChains on
             type bigChain
-            bigDataUrl https://figshare.com/ndownloader/files/41352117
-            linkDataUrl https://figshare.com/ndownloader/files/41352081
+            bigDataUrl https://www.dropbox.com/scl/fi/hygmi7ij5l5zbaxcm55ic/oryLat04.dicLab01.ortho.bigChain.bb?rlkey=1iyayyz7qqe60w5h0gdxqc12u&st=bdcnut57&dl=0
+            linkDataUrl https://www.dropbox.com/scl/fi/jfz34fg8okyjle3bc7ife/oryLat04.dicLab01.ortho.bigChain.link.bb?rlkey=koau0bp1fuommwnnox7na9g3i&st=22umgij9&dl=0
             shortLabel dicLab01
             longLabel European Seabass (+)
             priority 34
@@ -330,8 +330,8 @@ visibility pack
             track labBer01_orthoChains
             parent orthologousChains on
             type bigChain
-            bigDataUrl https://figshare.com/ndownloader/files/41352318
-            linkDataUrl https://figshare.com/ndownloader/files/41352345
+            bigDataUrl https://www.dropbox.com/scl/fi/gdrqxnjfg2a0mhdf635yo/oryLat04.labBer01.ortho.bigChain.bb?rlkey=9vwf50l1h8teldzxg73stiszg&st=wfuriaoe&dl=0
+            linkDataUrl https://www.dropbox.com/scl/fi/uwakentz9yjknusxrtrnj/oryLat04.labBer01.ortho.bigChain.link.bb?rlkey=ba8zu9pt0ghnv565nlwhstn6l&st=uz1toeqy&dl=0
             shortLabel labBer01
             longLabel Ballan Wrasse (+)
             priority 35
@@ -357,8 +357,8 @@ visibility pack
             track hipCom01_orthoChains
             parent orthologousChains on
             type bigChain
-            bigDataUrl https://figshare.com/ndownloader/files/41352123
-            linkDataUrl https://figshare.com/ndownloader/files/41352069
+            bigDataUrl https://www.dropbox.com/scl/fi/wuz76ogitghbjo0sbmrpi/oryLat04.hipCom01.ortho.bigChain.bb?rlkey=e8w5dle0bn30g0i5lcgcvvu5j&st=9t9xns9v&dl=0
+            linkDataUrl https://www.dropbox.com/scl/fi/ul6nnohk8ed2842m7dsdq/oryLat04.hipCom01.ortho.bigChain.link.bb?rlkey=y0enk6af89wv1ei4o34noy03m&st=8syuelmo&dl=0
             shortLabel hipCom01
             longLabel Tiger Tail Seahorse [-]
             priority 38
@@ -366,8 +366,8 @@ visibility pack
             track hipEre01_orthoChains
             parent orthologousChains on
             type bigChain
-            bigDataUrl https://figshare.com/ndownloader/files/41352315
-            linkDataUrl https://figshare.com/ndownloader/files/41352138
+            bigDataUrl https://www.dropbox.com/scl/fi/28pegzo3s6f7nurfivbwf/oryLat04.hipEre01.ortho.bigChain.bb?rlkey=wia2jvrbwfccbzhy9onukcfuh&st=mdtm7goy&dl=0
+            linkDataUrl https://www.dropbox.com/scl/fi/orz8w1pzfk62cnpyo0lo3/oryLat04.hipEre01.ortho.bigChain.link.bb?rlkey=7kucef8ulg52of85r9yeyivbn&st=8ajjnyco&dl=0
             shortLabel hipEre01
             longLabel Lined Seahorse [-]
             priority 37
